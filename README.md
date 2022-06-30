@@ -6,7 +6,7 @@ AWS lambda Ruby base image with Apache Arrow
 
 To build the image use:
 
-    $ make build
+    $ make image
 
 Then to tag the image, use:
 
